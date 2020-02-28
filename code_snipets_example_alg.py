@@ -1,7 +1,7 @@
 #start of code snippets
 
 hello
-cheers steve
+cheers thomas
 
 printf("Hi Clay)
 
