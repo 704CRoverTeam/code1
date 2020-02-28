@@ -1,5 +1,6 @@
 #start of code snippets
 
+hello
 
 import rospy  # this is the module required for all simulation communication
 
