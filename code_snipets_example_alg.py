@@ -1,10 +1,9 @@
 #start of code snippets
-
+ss
 what are you saying fam 
 
 hello
 cheers steve
-hello github sux
 
 printf("Hi Clay)
 
