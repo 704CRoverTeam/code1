@@ -1,6 +1,6 @@
 #start of code snippets
 
-STEVEIOHIOHSFSIOFN
+HI CLAY LETS FIX THIS
 
 printf("Hi Clay)
 
