@@ -1,9 +1,6 @@
 #start of code snippets
-sss
-what are you saying fam 
 
-hello
-cheers steve
+iehfowbfweb
 
 printf("Hi Clay)
 
