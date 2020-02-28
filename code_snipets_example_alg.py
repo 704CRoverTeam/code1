@@ -1,12 +1,10 @@
 #start of code snippets
 
-iehfowbfweb
+STEVEIOHIOHSFSIOFN
 
 printf("Hi Clay)
 
 import rospy  # this is the module required for all simulation communication
-       
-THOMAS WRITE HERE AHHHHHHHH
 
 # start of wheel control code
 from wheel_control.msg import wheelSpeed  # this is a required module for the drive communication
