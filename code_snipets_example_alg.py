@@ -2,6 +2,8 @@
 
 hello
 
+printf("Hi Clay)
+
 import rospy  # this is the module required for all simulation communication
 
 # start of wheel control code
@@ -9,7 +11,7 @@ from wheel_control.msg import wheelSpeed  # this is a required module for the dr
 
 rospy.init_node("controller")
 
-class WheelController:
+class WheelController: 
 
     def __init__(self):
         self.wheel_pub = rospy.Publisher("/gazebo_wheelControl/wheelSpeedTopic", wheelSpeed, queue_size=1)
