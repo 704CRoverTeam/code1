@@ -1,8 +1,7 @@
 #start of code snippets
 
-STEVEIOHIOHSFSIOFN
 
-printf("Hi Clay)
+REBASE TEST
 
 import rospy  # this is the module required for all simulation communication
 
