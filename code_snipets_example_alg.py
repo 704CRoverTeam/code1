@@ -1,6 +1,5 @@
 #start of code snippets
 
-
 REBASE TEST
 
 import rospy  # this is the module required for all simulation communication
@@ -24,6 +23,7 @@ class WheelController:
         msg.wheelMode = 0
         self.wheel_pub.publish(msg)
         #print(msg)
+
 
 
 # end of wheel control code
