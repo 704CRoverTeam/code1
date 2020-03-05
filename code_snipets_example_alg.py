@@ -2,9 +2,6 @@
 
 #test
 
-HI CLAY LETS FIX THIS
-
-
 REBASE TEST
 
 import rospy  # this is the module required for all simulation communication
