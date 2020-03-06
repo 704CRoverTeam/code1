@@ -1,4 +1,4 @@
-#Git Bash commands
+# Git Bash commands
 
 1. `git pull` to get all recent changes from the cloud server onto ur offline version
 2. `git status` to see the status of your file changes
