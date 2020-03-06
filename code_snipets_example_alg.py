@@ -96,3 +96,17 @@ while not rospy.is_shutdown():  #this will run until gazebo is shut down or CTRL
     print("Current Heading: ", locHead.heading, "Current x val: ", locHead.x, "RightMostLaser: ", laser.laserRanges[0]) #print some random data to the command line
 
 # end of control loop snippet
+
+
+#CLAY
+
+#CLAY END
+
+#STEVE 
+
+#STEVE END
+
+#THOMAS 
+
+#THOMAS END
+
