@@ -99,23 +99,6 @@ while not rospy.is_shutdown():  #this will run until gazebo is shut down or CTRL
 <<<<<<< HEAD
 
 
-#CLAY
-
-
-
-
-
-
-
-#CLAY END
-
-#STEVE 
-
-#STEVE END
-
-#THOMAS 
-
-#THOMAS END
 
 =======
 >>>>>>> da6cc561a8aa8dba0fe6fb49a09cb3cc3cb79ce3
