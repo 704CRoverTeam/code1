@@ -120,7 +120,7 @@ while not rospy.is_shutdown():  #this will run until gazebo is shut down or CTRL
 
 # THOMAS ---------------------------
 
-
+#Hey this is Thomas Test #4 what's up :D
 
 
 
